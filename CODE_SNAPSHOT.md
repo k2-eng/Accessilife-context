@@ -76,3 +76,12 @@
 - [ ] Sistema matching
 - [ ] Pagamenti con Stripe
 - [ ] Recensioni e rating
+## Nuovi File Aggiunti:
+- auth.html - Pagina login/registrazione
+- auth.js - Logica autenticazione Supabase
+- dashboard.html - Dashboard differenziate
+- dashboard.js - Logica dashboard
+
+## Integrazioni:
+- Supabase SDK v2 per autenticazione
+- Database PostgreSQL su Supabase
