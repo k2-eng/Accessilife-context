@@ -34,3 +34,9 @@ Ultimo aggiornamento: 11 Dicembre 2024
 - Demo Live: https://replit.com/@k2-eng/WebSketch
 - Documentazione: https://github.com/k2-eng/accessilife-context
   
+## Progressi 11 Dicembre 2024
+- ✅ Database Supabase configurato
+- ✅ Tabelle user_profiles e places create
+- ✅ Sistema autenticazione in sviluppo
+- ⏳ Login page da completare
+- ⏳ Dashboard differenziate da testare
